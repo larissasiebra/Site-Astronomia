@@ -1,5 +1,5 @@
 # Site-Astronomia
 <a href="" > Link do Site </a>
 
-Coautora:
+Coautora:<br>
 <a href="https://github.com/maasfreitas" > Maria Alice </a>
